@@ -1,10 +1,6 @@
-#ifndef MJ_ALGORITHM_H_INCLUDED
-#define MJ_ALGORITHM_H_INCLUDED
+#ifndef _mj_algorithm_h
+#define _mj_algorithm_h
 
-/*  This is some basic math functions.    */
-float sum(float a, float b);
-float subtract(float a, float b);
-float multiply(float a, float b);
-float divide(float a, float b);
+int Sum(int a, int b);
 
 #endif // MJ_ALGORITHM_H_INCLUDED

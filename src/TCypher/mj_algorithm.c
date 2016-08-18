@@ -1,21 +1,6 @@
 #include "mj_algorithm.h"
 
-float sum(float a, float b)
+int Sum(int a, int b)
 {
     return a+b;
-}
-
-float subtract(float a, float b)
-{
-    return a-b;
-}
-
-float multiply(float a, float b)
-{
-    return a*b;
-}
-
-float divide(float a, float b)
-{
-    return a/b;
 }
