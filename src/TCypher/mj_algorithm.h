@@ -2,10 +2,9 @@
 #define MJ_ALGORITHM_H_INCLUDED
 
 /*  This is some basic math functions.    */
-float sum(int a, int b);
-float subtract(int a, int b);
-float multiply(int a, int b);
-float divide(int a, int b);
-float remainder(int a, int b);
+float sum(float a, float b);
+float subtract(float a, float b);
+float multiply(float a, float b);
+float divide(float a, float b);
 
 #endif // MJ_ALGORITHM_H_INCLUDED
